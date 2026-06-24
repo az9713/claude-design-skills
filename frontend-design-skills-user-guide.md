@@ -1,4 +1,4 @@
-# User guide for the newly installed design skills
+﻿# User guide for the newly installed design skills
 
 This guide explains when to use the skills installed on 2026-06-23 and how to ask for them effectively. It is written for users who are new to skills and want a practical decision guide, not a raw catalog.
 
@@ -541,25 +541,25 @@ Use `material-3` to build this Jetpack Compose screen with correct MaterialTheme
 
 | Skill | Installed path |
 | --- | --- |
-| `frontend-design` | `C:\Users\simon\.agents\skills\frontend-design` |
-| `shadcn` | `C:\Users\simon\.agents\skills\shadcn` |
-| `dashboard` | `C:\Users\simon\.agents\skills\dashboard` |
-| `ui-ux-pro-max` | `C:\Users\simon\.agents\skills\ui-ux-pro-max` |
-| `gsap-core` | `C:\Users\simon\.agents\skills\gsap-core` |
-| `gsap-frameworks` | `C:\Users\simon\.agents\skills\gsap-frameworks` |
-| `gsap-performance` | `C:\Users\simon\.agents\skills\gsap-performance` |
-| `gsap-plugins` | `C:\Users\simon\.agents\skills\gsap-plugins` |
-| `gsap-react` | `C:\Users\simon\.agents\skills\gsap-react` |
-| `gsap-scrolltrigger` | `C:\Users\simon\.agents\skills\gsap-scrolltrigger` |
-| `gsap-timeline` | `C:\Users\simon\.agents\skills\gsap-timeline` |
-| `gsap-utils` | `C:\Users\simon\.agents\skills\gsap-utils` |
-| `minimalist-ui` | `C:\Users\simon\.agents\skills\minimalist-ui` |
-| `industrial-brutalist-ui` | `C:\Users\simon\.agents\skills\industrial-brutalist-ui` |
-| `premium-frontend-ui` | `C:\Users\simon\.agents\skills\premium-frontend-ui` |
-| `mobile-app-ui-design` | `C:\Users\simon\.agents\skills\mobile-app-ui-design` |
-| `swiftui-skills` | `C:\Users\simon\.agents\skills\swiftui-skills` |
-| `material-3` | `C:\Users\simon\.agents\skills\material-3` |
-| `building-native-ui` | `C:\Users\simon\.agents\skills\building-native-ui` |
+| `frontend-design` | `~\.agents\skills\frontend-design` |
+| `shadcn` | `~\.agents\skills\shadcn` |
+| `dashboard` | `~\.agents\skills\dashboard` |
+| `ui-ux-pro-max` | `~\.agents\skills\ui-ux-pro-max` |
+| `gsap-core` | `~\.agents\skills\gsap-core` |
+| `gsap-frameworks` | `~\.agents\skills\gsap-frameworks` |
+| `gsap-performance` | `~\.agents\skills\gsap-performance` |
+| `gsap-plugins` | `~\.agents\skills\gsap-plugins` |
+| `gsap-react` | `~\.agents\skills\gsap-react` |
+| `gsap-scrolltrigger` | `~\.agents\skills\gsap-scrolltrigger` |
+| `gsap-timeline` | `~\.agents\skills\gsap-timeline` |
+| `gsap-utils` | `~\.agents\skills\gsap-utils` |
+| `minimalist-ui` | `~\.agents\skills\minimalist-ui` |
+| `industrial-brutalist-ui` | `~\.agents\skills\industrial-brutalist-ui` |
+| `premium-frontend-ui` | `~\.agents\skills\premium-frontend-ui` |
+| `mobile-app-ui-design` | `~\.agents\skills\mobile-app-ui-design` |
+| `swiftui-skills` | `~\.agents\skills\swiftui-skills` |
+| `material-3` | `~\.agents\skills\material-3` |
+| `building-native-ui` | `~\.agents\skills\building-native-ui` |
 
 ## Failed or unavailable item
 
